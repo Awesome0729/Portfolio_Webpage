@@ -1,5 +1,8 @@
-import cookieroll from "./assets/images/cookieroll.png"
-import meBG from "./assets/images/me.png"
+import cookieroll from "./assets/images/cookieroll.png";
+import cestlouvi from "./assets/images/cestlouvi.png";
+import codinginbcd from "./assets/images/codinginbacolod.png";
+import goopworld from "./assets/images/goopworld.png";
+import meBG from "./assets/images/me.png";
 const logotext = "Zieggy";
 const meta = {
   title: "ZC",
@@ -88,16 +91,22 @@ const dataportfolio = [
     link: "https://prodejay.itch.io/cookieroll",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: cestlouvi,
+    description: "The CestLouVi landing page (Incomplete)",
+    link: "https://cestlouvi.com",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: goopworld,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "Goop World. a short and fun way to eat goops and get big",
+    link: "https://drive.google.com/file/d/1PEe4BoNcOh14DL9oAbaSRVJdNPS-CNWl/view?usp=sharing",
+  },
+
+  {
+    img: codinginbcd,
+    description:
+      "Coding in bacolod, a bunch of nerds review coffee places in Bacolod",
+    link: "https://bcd-coders.github.io/Coding-in-Bacolod/",
   },
 ];
 
