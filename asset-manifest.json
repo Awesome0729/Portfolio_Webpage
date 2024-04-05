@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Webpage/static/css/main.d9d03ac2.css",
+    "main.js": "/Portfolio_Webpage/static/js/main.c34bc195.js",
+    "static/media/codinginbacolod.png": "/Portfolio_Webpage/static/media/codinginbacolod.41627176c34441f7c90c.png",
+    "static/media/cestlouvi.png": "/Portfolio_Webpage/static/media/cestlouvi.9f1adaee8c77afe6cf99.png",
+    "static/media/me.png": "/Portfolio_Webpage/static/media/me.f0a1b6ce94824f05e51b.png",
+    "static/media/goopworld.png": "/Portfolio_Webpage/static/media/goopworld.fe2ef4b7e89273048a03.png",
+    "static/media/cookieroll.png": "/Portfolio_Webpage/static/media/cookieroll.c917535b5415e62f5004.png",
+    "index.html": "/Portfolio_Webpage/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d9d03ac2.css",
+    "static/js/main.c34bc195.js"
+  ]
+}
